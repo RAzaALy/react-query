@@ -1,7 +1,133 @@
 {
   "cars": [
-    { "id": 1, "model": "Sentra", "doors": 4 },
-    { "id": 2, "model": "Maxima", "doors": 4 },
-    { "id": 3, "model": "Skyline", "doors": 2 }
+    {
+      "id": 1,
+      "model": "Sentra",
+      "doors": 4
+    },
+    {
+      "id": 2,
+      "model": "Maxima",
+      "doors": 4
+    },
+    {
+      "id": 3,
+      "model": "Skyline",
+      "doors": 2
+    },
+    {
+      "model": "mehran",
+      "doors": "4",
+      "id": 4
+    },
+    {
+      "model": "mehran",
+      "doors": "4",
+      "id": 5
+    },
+    {
+      "model": "bmw",
+      "doors": "2",
+      "id": 6
+    },
+    {
+      "model": "suzuki",
+      "doors": "2",
+      "id": 7
+    },
+    {
+      "model": "maroti",
+      "doors": "4",
+      "id": 8
+    },
+    {
+      "model": "mustang",
+      "doors": "2",
+      "id": 9
+    },
+    {
+      "model": "vegnor",
+      "doors": "4",
+      "id": 10
+    },
+    {
+      "model": "royal",
+      "doors": "4",
+      "id": 11
+    },
+    {
+      "model": "pirate",
+      "doors": "4",
+      "id": 12
+    },
+    {
+      "model": "carolla",
+      "doors": "4",
+      "id": 13
+    }
+  ],
+  "bikes": [
+    {
+      "id": 1,
+      "model": "Yamha"
+    },
+    {
+      "id": 2,
+      "model": "Honda"
+    },
+    {
+      "id": 3,
+      "model": "BMW"
+    }
+  ],
+  "users": [
+    {
+      "id": "john@yopmail.com",
+      "role": "admin"
+    }
+  ],
+  "members": [
+    {
+      "id": "admin",
+      "teams": [
+        "jack",
+        "johny",
+        "smith"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "green"
+    },
+    {
+      "id": 2,
+      "label": "black"
+    },
+    {
+      "id": 3,
+      "label": "yellow"
+    },
+    {
+      "id": 4,
+      "label": "red"
+    },
+    {
+      "id": 5,
+      "label": "white"
+    },
+    {
+      "id": 6,
+      "label": "brown"
+    },
+    {
+      "id": 7,
+      "label": "bray"
+    },
+    {
+      "id": 8,
+      "label": "sky"
+    }
   ]
 }
